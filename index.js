@@ -1,6 +1,5 @@
 // build an ES2015 BoardMember class with the following properties set by the constructor: name, homeState, and training
 // add methods to the prototype using the class syntax: veto, approve, doCharity, releasePressStatement, sayHi
-
 class BoardMember {
   constructor (name, homeState, training) {
     this.name = name;
